@@ -20,7 +20,7 @@ Heatmap
 
 
 
-DashBoard in PowerBI
+DashBoard using PowerBI
 
 ![image](https://github.com/Vedavathi-nalla/Disease_Prediction_and_Reommend_Drugs/assets/68542087/868b70c0-fcb8-4a8d-a629-1014eebd870d)
 
