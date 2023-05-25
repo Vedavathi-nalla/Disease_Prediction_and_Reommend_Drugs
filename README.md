@@ -20,16 +20,6 @@ Heatmap
 
 
 
-Histogram
-
-![image](https://github.com/Vedavathi-nalla/Disease_Prediction_and_Reommend_Drugs/assets/68542087/c6dae460-e4b2-4dba-8fc4-8f5fddd87e41)
-
-
-
-![image](https://github.com/Vedavathi-nalla/Disease_Prediction_and_Reommend_Drugs/assets/68542087/334551cd-e5d5-4e76-83f4-d18070fe5fff)
-
-
-
 DashBoard in PowerBI
 
 ![image](https://github.com/Vedavathi-nalla/Disease_Prediction_and_Reommend_Drugs/assets/68542087/868b70c0-fcb8-4a8d-a629-1014eebd870d)
