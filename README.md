@@ -45,6 +45,5 @@ Based on the above picture we concluded to use RandomForest because it has 99% a
 **Test Case:**
 
 ![image](https://github.com/Vedavathi-nalla/Disease_Prediction_and_Reommend_Drugs/assets/68542087/23058c0b-cbd5-4efc-8885-62fc75bbe651)
-
-Here by using RandomForest we predicted the disease based on the patient's input and recommended the drug and specialist.
+By using RandomForest we predicted the disease based on the patient's input and recommended the drug and specialist.
 
